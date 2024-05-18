@@ -15,7 +15,7 @@ Arthur do Nascimento Siqueira
 
 Matheus Martins Matias Rodrigues
 
-Victor Campanha Barros - (https://www.linkedin.com/in/victorcbarros/)
+Victor Campanha Barros -  (https://www.linkedin.com/in/victorcbarros/)
 
 
 ## 📌 Visão Geral
