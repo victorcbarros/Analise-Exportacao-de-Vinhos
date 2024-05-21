@@ -1,0 +1,753 @@
+,Categoria,Nome Produto,Tipo,Ano,Total_Produzido,Total_Comercializado,Diferença comercializado/produzido
+0,vinho,tinto,vinho mesa,2007,228156220,190526781,-37629439
+1,vinho,branco,vinho mesa,2007,42118552,29122090,-12996462
+2,vinho,rosado,vinho mesa,2007,5013136,2252558,-2760578
+3,vinho,tinto,vinho fino vinífera,2007,24786071,13872339,-10913732
+4,vinho,branco,vinho fino vinífera,2007,17598428,7197075,-10401353
+5,vinho,rosado,vinho fino vinífera,2007,791985,416285,-375700
+6,suco,suco de uva integral,suco de uva,2007,10147037,0,
+7,suco,suco de uva concentrado,suco de uva,2007,19280709,0,
+8,suco,suco de uva adoçado,suco de uva,2007,709098,0,
+9,suco,suco de uva orgânico,suco de uva,2007,0,0,
+10,suco,suco de uva reconstituído,suco de uva,2007,0,0,
+11,espumante,espumante,derivado,2007,0,0,
+12,espumante,espumante moscatel,derivado,2007,589332,1585203,995871
+13,espumante,base espumante,derivado,2007,78250,0,-78250
+14,espumante,base espumante moscatel,derivado,2007,111200,0,
+15,outros,base champenoise champanha,derivado,2007,0,0,
+16,outros,base charmat champanha,derivado,2007,0,0,
+17,outros,bebida de uva,derivado,2007,0,0,
+18,outros,polpa de uva,derivado,2007,1083202,0,
+19,outros,mosto simples,derivado,2007,37558010,0,
+20,outros,mosto concentrado,derivado,2007,110000,0,-110000
+21,outros,mosto de uva com bagaço,derivado,2007,0,0,
+22,outros,mosto dessulfitado,derivado,2007,0,0,
+23,outros,mistelas,derivado,2007,1900,3430,1530
+24,outros,néctar de uva,derivado,2007,0,0,
+25,outros,licorosos,derivado,2007,0,0,
+26,outros,compostos,derivado,2007,0,0,
+27,outros,jeropiga,derivado,2007,0,19926,19926
+28,outros,filtrado,derivado,2007,0,0,
+29,outros,frisante,derivado,2007,0,0,
+30,vinho,vinho leve,derivado,2007,0,0,0
+31,vinho,vinho licoroso,derivado,2007,27926,587652,559726
+32,outros,brandy,derivado,2007,0,5929,5929
+33,outros,destilado,derivado,2007,0,139410,139410
+34,outros,bagaceira,derivado,2007,48500,21186,-27314
+35,outros,licor de bagaceira,derivado,2007,0,0,
+36,outros,vinagre,derivado,2007,0,0,
+37,outros,borra líquida,derivado,2007,2095873,0,
+38,outros,borra seca,derivado,2007,0,24543,24543
+39,vinho,vinho composto,derivado,2007,0,898156,898156
+40,outros,pisco,derivado,2007,0,0,
+41,vinho,vinho orgânico,derivado,2007,307410,0,-307410
+42,espumante,espumante orgânico,derivado,2007,0,0,0
+43,outros,destilado alcoólico simples de bagaceira ,derivado,2007,0,0,
+44,vinho,vinho acidificado ,derivado,2007,0,0,
+45,outros,mosto parcialmente fermentado ,derivado,2007,0,0,
+46,outros,outros derivados,derivado,2007,0,0,
+47,vinho,tinto,vinho mesa,2008,241057928,172020779,-69037149
+48,vinho,branco,vinho mesa,2008,42942053,26627054,-16314999
+49,vinho,rosado,vinho mesa,2008,3506830,1840779,-1666051
+50,vinho,tinto,vinho fino vinífera,2008,27583032,13920224,-13662808
+51,vinho,branco,vinho fino vinífera,2008,18812571,8934001,-9878570
+52,vinho,rosado,vinho fino vinífera,2008,938898,313513,-625385
+53,suco,suco de uva integral,suco de uva,2008,11817941,0,
+54,suco,suco de uva concentrado,suco de uva,2008,23014646,0,
+55,suco,suco de uva adoçado,suco de uva,2008,815407,0,
+56,suco,suco de uva orgânico,suco de uva,2008,0,0,
+57,suco,suco de uva reconstituído,suco de uva,2008,0,0,
+58,espumante,espumante,derivado,2008,88690,0,
+59,espumante,espumante moscatel,derivado,2008,1113462,1905395,791933
+60,espumante,base espumante,derivado,2008,220120,12794,-207326
+61,espumante,base espumante moscatel,derivado,2008,474721,0,
+62,outros,base champenoise champanha,derivado,2008,0,0,
+63,outros,base charmat champanha,derivado,2008,0,0,
+64,outros,bebida de uva,derivado,2008,1082700,0,
+65,outros,polpa de uva,derivado,2008,1188260,0,
+66,outros,mosto simples,derivado,2008,53683415,0,
+67,outros,mosto concentrado,derivado,2008,0,0,0
+68,outros,mosto de uva com bagaço,derivado,2008,0,0,
+69,outros,mosto dessulfitado,derivado,2008,0,0,
+70,outros,mistelas,derivado,2008,2000,3340,1340
+71,outros,néctar de uva,derivado,2008,0,0,
+72,outros,licorosos,derivado,2008,0,0,
+73,outros,compostos,derivado,2008,0,0,
+74,outros,jeropiga,derivado,2008,0,10796,10796
+75,outros,filtrado,derivado,2008,0,0,
+76,outros,frisante,derivado,2008,0,0,
+77,vinho,vinho leve,derivado,2008,0,0,0
+78,vinho,vinho licoroso,derivado,2008,65650,557062,491412
+79,outros,brandy,derivado,2008,0,6606,6606
+80,outros,destilado,derivado,2008,0,32281,32281
+81,outros,bagaceira,derivado,2008,8500,23195,14695
+82,outros,licor de bagaceira,derivado,2008,0,0,
+83,outros,vinagre,derivado,2008,0,0,
+84,outros,borra líquida,derivado,2008,1679775,0,
+85,outros,borra seca,derivado,2008,0,18640,18640
+86,vinho,vinho composto,derivado,2008,0,1065845,1065845
+87,outros,pisco,derivado,2008,0,0,
+88,vinho,vinho orgânico,derivado,2008,15000,0,-15000
+89,espumante,espumante orgânico,derivado,2008,0,0,0
+90,outros,destilado alcoólico simples de bagaceira ,derivado,2008,0,0,
+91,vinho,vinho acidificado ,derivado,2008,0,0,
+92,outros,mosto parcialmente fermentado ,derivado,2008,0,0,
+93,outros,outros derivados,derivado,2008,0,0,
+94,vinho,tinto,vinho mesa,2009,164143454,193004182,28860728
+95,vinho,branco,vinho mesa,2009,39211278,39214217,2939
+96,vinho,rosado,vinho mesa,2009,2063474,2307580,244106
+97,vinho,tinto,vinho fino vinífera,2009,18209043,19576295,1367252
+98,vinho,branco,vinho fino vinífera,2009,21366975,13290140,-8076835
+99,vinho,rosado,vinho fino vinífera,2009,324550,213835,-110715
+100,suco,suco de uva integral,suco de uva,2009,16034003,0,
+101,suco,suco de uva concentrado,suco de uva,2009,23006457,0,
+102,suco,suco de uva adoçado,suco de uva,2009,674638,0,
+103,suco,suco de uva orgânico,suco de uva,2009,0,0,
+104,suco,suco de uva reconstituído,suco de uva,2009,0,0,
+105,espumante,espumante,derivado,2009,0,0,
+106,espumante,espumante moscatel,derivado,2009,1190500,2500230,1309730
+107,espumante,base espumante,derivado,2009,335850,0,-335850
+108,espumante,base espumante moscatel,derivado,2009,442150,0,
+109,outros,base champenoise champanha,derivado,2009,0,0,
+110,outros,base charmat champanha,derivado,2009,0,0,
+111,outros,bebida de uva,derivado,2009,420,0,
+112,outros,polpa de uva,derivado,2009,1352417,0,
+113,outros,mosto simples,derivado,2009,53418555,0,
+114,outros,mosto concentrado,derivado,2009,0,0,0
+115,outros,mosto de uva com bagaço,derivado,2009,0,0,
+116,outros,mosto dessulfitado,derivado,2009,0,0,
+117,outros,mistelas,derivado,2009,3500,7034,3534
+118,outros,néctar de uva,derivado,2009,0,0,
+119,outros,licorosos,derivado,2009,38000,0,
+120,outros,compostos,derivado,2009,0,0,
+121,outros,jeropiga,derivado,2009,0,14443,14443
+122,outros,filtrado,derivado,2009,0,0,
+123,outros,frisante,derivado,2009,0,0,
+124,vinho,vinho leve,derivado,2009,0,0,0
+125,vinho,vinho licoroso,derivado,2009,0,591313,591313
+126,outros,brandy,derivado,2009,0,7151,7151
+127,outros,destilado,derivado,2009,0,100,100
+128,outros,bagaceira,derivado,2009,6500,21133,14633
+129,outros,licor de bagaceira,derivado,2009,0,0,
+130,outros,vinagre,derivado,2009,0,0,
+131,outros,borra líquida,derivado,2009,0,0,
+132,outros,borra seca,derivado,2009,0,0,0
+133,vinho,vinho composto,derivado,2009,0,542123,542123
+134,outros,pisco,derivado,2009,0,0,
+135,vinho,vinho orgânico,derivado,2009,0,0,0
+136,espumante,espumante orgânico,derivado,2009,0,0,0
+137,outros,destilado alcoólico simples de bagaceira ,derivado,2009,0,0,
+138,vinho,vinho acidificado ,derivado,2009,0,0,
+139,outros,mosto parcialmente fermentado ,derivado,2009,0,0,
+140,outros,outros derivados,derivado,2009,0,0,
+141,vinho,tinto,vinho mesa,2010,157290088,188649074,31358986
+142,vinho,branco,vinho mesa,2010,35408083,30556943,-4851140
+143,vinho,rosado,vinho mesa,2010,2569809,2036928,-532881
+144,vinho,tinto,vinho fino vinífera,2010,11401406,15184398,3782992
+145,vinho,branco,vinho fino vinífera,2010,13013027,5968959,-7044068
+146,vinho,rosado,vinho fino vinífera,2010,391280,236802,-154478
+147,suco,suco de uva integral,suco de uva,2010,26887259,0,
+148,suco,suco de uva concentrado,suco de uva,2010,23238685,0,
+149,suco,suco de uva adoçado,suco de uva,2010,0,0,
+150,suco,suco de uva orgânico,suco de uva,2010,0,0,
+151,suco,suco de uva reconstituído,suco de uva,2010,0,0,
+152,espumante,espumante,derivado,2010,10125,0,
+153,espumante,espumante moscatel,derivado,2010,703393,2946179,2242786
+154,espumante,base espumante,derivado,2010,0,18418,18418
+155,espumante,base espumante moscatel,derivado,2010,1144508,0,
+156,outros,base champenoise champanha,derivado,2010,92082,0,
+157,outros,base charmat champanha,derivado,2010,254000,0,
+158,outros,bebida de uva,derivado,2010,7900,0,
+159,outros,polpa de uva,derivado,2010,1951606,0,
+160,outros,mosto simples,derivado,2010,45912040,0,
+161,outros,mosto concentrado,derivado,2010,0,0,0
+162,outros,mosto de uva com bagaço,derivado,2010,0,0,
+163,outros,mosto dessulfitado,derivado,2010,0,0,
+164,outros,mistelas,derivado,2010,0,26577,26577
+165,outros,néctar de uva,derivado,2010,0,0,
+166,outros,licorosos,derivado,2010,0,0,
+167,outros,compostos,derivado,2010,0,0,
+168,outros,jeropiga,derivado,2010,69000,37310,-31690
+169,outros,filtrado,derivado,2010,0,0,
+170,outros,frisante,derivado,2010,831000,0,
+171,vinho,vinho leve,derivado,2010,0,0,0
+172,vinho,vinho licoroso,derivado,2010,15000,638487,623487
+173,outros,brandy,derivado,2010,0,6448,6448
+174,outros,destilado,derivado,2010,0,31814,31814
+175,outros,bagaceira,derivado,2010,0,16413,16413
+176,outros,licor de bagaceira,derivado,2010,0,0,
+177,outros,vinagre,derivado,2010,5817,0,
+178,outros,borra líquida,derivado,2010,64304,0,
+179,outros,borra seca,derivado,2010,149981,46000,-103981
+180,vinho,vinho composto,derivado,2010,0,661586,661586
+181,outros,pisco,derivado,2010,0,0,
+182,vinho,vinho orgânico,derivado,2010,0,0,0
+183,espumante,espumante orgânico,derivado,2010,0,0,0
+184,outros,destilado alcoólico simples de bagaceira ,derivado,2010,0,0,
+185,vinho,vinho acidificado ,derivado,2010,0,0,
+186,outros,mosto parcialmente fermentado ,derivado,2010,0,0,
+187,outros,outros derivados,derivado,2010,0,0,
+188,vinho,tinto,vinho mesa,2011,210113358,196562722,-13550636
+189,vinho,branco,vinho mesa,2011,46007504,32078923,-13928581
+190,vinho,rosado,vinho mesa,2011,1719887,1668823,-51064
+191,vinho,tinto,vinho fino vinífera,2011,24104740,14876896,-9227844
+192,vinho,branco,vinho fino vinífera,2011,22739426,4878930,-17860496
+193,vinho,rosado,vinho fino vinífera,2011,754305,211484,-542821
+194,suco,suco de uva integral,suco de uva,2011,39487800,0,
+195,suco,suco de uva concentrado,suco de uva,2011,29564324,0,
+196,suco,suco de uva adoçado,suco de uva,2011,312200,0,
+197,suco,suco de uva orgânico,suco de uva,2011,0,0,
+198,suco,suco de uva reconstituído,suco de uva,2011,0,0,
+199,espumante,espumante,derivado,2011,26361,0,
+200,espumante,espumante moscatel,derivado,2011,219100,2996441,2777341
+201,espumante,base espumante,derivado,2011,0,22162,22162
+202,espumante,base espumante moscatel,derivado,2011,2749540,0,
+203,outros,base champenoise champanha,derivado,2011,74746,0,
+204,outros,base charmat champanha,derivado,2011,865858,0,
+205,outros,bebida de uva,derivado,2011,0,0,
+206,outros,polpa de uva,derivado,2011,2480120,0,
+207,outros,mosto simples,derivado,2011,77285998,0,
+208,outros,mosto concentrado,derivado,2011,0,0,0
+209,outros,mosto de uva com bagaço,derivado,2011,1037600,0,
+210,outros,mosto dessulfitado,derivado,2011,0,0,
+211,outros,mistelas,derivado,2011,0,983,983
+212,outros,néctar de uva,derivado,2011,0,0,
+213,outros,licorosos,derivado,2011,0,0,
+214,outros,compostos,derivado,2011,0,0,
+215,outros,jeropiga,derivado,2011,0,57887,57887
+216,outros,filtrado,derivado,2011,0,0,
+217,outros,frisante,derivado,2011,1003800,0,
+218,vinho,vinho leve,derivado,2011,0,0,0
+219,vinho,vinho licoroso,derivado,2011,0,593486,593486
+220,outros,brandy,derivado,2011,0,5640,5640
+221,outros,destilado,derivado,2011,0,90364,90364
+222,outros,bagaceira,derivado,2011,0,18111,18111
+223,outros,licor de bagaceira,derivado,2011,0,0,
+224,outros,vinagre,derivado,2011,0,0,
+225,outros,borra líquida,derivado,2011,0,0,
+226,outros,borra seca,derivado,2011,0,73006,73006
+227,vinho,vinho composto,derivado,2011,0,662965,662965
+228,outros,pisco,derivado,2011,0,0,
+229,vinho,vinho orgânico,derivado,2011,5600,0,-5600
+230,espumante,espumante orgânico,derivado,2011,0,0,0
+231,outros,destilado alcoólico simples de bagaceira ,derivado,2011,0,0,
+232,vinho,vinho acidificado ,derivado,2011,0,0,
+233,outros,mosto parcialmente fermentado ,derivado,2011,0,0,
+234,outros,outros derivados,derivado,2011,0,0,
+235,vinho,tinto,vinho mesa,2012,175875432,173964776,-1910656
+236,vinho,branco,vinho mesa,2012,34938249,31266661,-3671588
+237,vinho,rosado,vinho mesa,2012,1963356,1738134,-225222
+238,vinho,tinto,vinho fino vinífera,2012,24027589,15443016,-8584573
+239,vinho,branco,vinho fino vinífera,2012,20647238,6876128,-13771110
+240,vinho,rosado,vinho fino vinífera,2012,525903,150806,-375097
+241,suco,suco de uva integral,suco de uva,2012,31908829,0,
+242,suco,suco de uva concentrado,suco de uva,2012,37624855,0,
+243,suco,suco de uva adoçado,suco de uva,2012,533048,0,
+244,suco,suco de uva orgânico,suco de uva,2012,0,0,
+245,suco,suco de uva reconstituído,suco de uva,2012,0,0,
+246,espumante,espumante,derivado,2012,17200,0,
+247,espumante,espumante moscatel,derivado,2012,139775,3610289,3470514
+248,espumante,base espumante,derivado,2012,0,25921,25921
+249,espumante,base espumante moscatel,derivado,2012,2798908,0,
+250,outros,base champenoise champanha,derivado,2012,369278,0,
+251,outros,base charmat champanha,derivado,2012,479625,0,
+252,outros,bebida de uva,derivado,2012,0,0,
+253,outros,polpa de uva,derivado,2012,2797665,0,
+254,outros,mosto simples,derivado,2012,93341575,0,
+255,outros,mosto concentrado,derivado,2012,0,0,0
+256,outros,mosto de uva com bagaço,derivado,2012,0,0,
+257,outros,mosto dessulfitado,derivado,2012,0,0,
+258,outros,mistelas,derivado,2012,200,5097,4897
+259,outros,néctar de uva,derivado,2012,0,0,
+260,outros,licorosos,derivado,2012,26775,0,
+261,outros,compostos,derivado,2012,7600,0,
+262,outros,jeropiga,derivado,2012,0,55050,55050
+263,outros,filtrado,derivado,2012,0,0,
+264,outros,frisante,derivado,2012,778500,0,
+265,vinho,vinho leve,derivado,2012,0,0,0
+266,vinho,vinho licoroso,derivado,2012,0,645341,645341
+267,outros,brandy,derivado,2012,0,5495,5495
+268,outros,destilado,derivado,2012,0,30000,30000
+269,outros,bagaceira,derivado,2012,0,14710,14710
+270,outros,licor de bagaceira,derivado,2012,0,0,
+271,outros,vinagre,derivado,2012,0,0,
+272,outros,borra líquida,derivado,2012,0,0,
+273,outros,borra seca,derivado,2012,0,89000,89000
+274,vinho,vinho composto,derivado,2012,0,510914,510914
+275,outros,pisco,derivado,2012,0,0,
+276,vinho,vinho orgânico,derivado,2012,0,0,0
+277,espumante,espumante orgânico,derivado,2012,0,0,0
+278,outros,destilado alcoólico simples de bagaceira ,derivado,2012,0,0,
+279,vinho,vinho acidificado ,derivado,2012,0,0,
+280,outros,mosto parcialmente fermentado ,derivado,2012,0,0,
+281,outros,outros derivados,derivado,2012,0,0,
+282,vinho,tinto,vinho mesa,2013,163111797,188033494,24921697
+283,vinho,branco,vinho mesa,2013,32066403,31779668,-286735
+284,vinho,rosado,vinho mesa,2013,1726022,1777648,51626
+285,vinho,tinto,vinho fino vinífera,2013,23156458,19121750,-4034708
+286,vinho,branco,vinho fino vinífera,2013,21906349,8576915,-13329434
+287,vinho,rosado,vinho fino vinífera,2013,719723,214269,-505454
+288,suco,suco de uva integral,suco de uva,2013,33673396,0,
+289,suco,suco de uva concentrado,suco de uva,2013,31206394,0,
+290,suco,suco de uva adoçado,suco de uva,2013,0,0,
+291,suco,suco de uva orgânico,suco de uva,2013,0,0,
+292,suco,suco de uva reconstituído,suco de uva,2013,0,0,
+293,espumante,espumante,derivado,2013,30275,0,
+294,espumante,espumante moscatel,derivado,2013,159781,3783531,3623750
+295,espumante,base espumante,derivado,2013,0,26483,26483
+296,espumante,base espumante moscatel,derivado,2013,1470700,0,
+297,outros,base champenoise champanha,derivado,2013,359617,0,
+298,outros,base charmat champanha,derivado,2013,624728,0,
+299,outros,bebida de uva,derivado,2013,4260,0,
+300,outros,polpa de uva,derivado,2013,1742152,0,
+301,outros,mosto simples,derivado,2013,58517506,0,
+302,outros,mosto concentrado,derivado,2013,0,0,0
+303,outros,mosto de uva com bagaço,derivado,2013,0,0,
+304,outros,mosto dessulfitado,derivado,2013,0,0,
+305,outros,mistelas,derivado,2013,2500,1655,-845
+306,outros,néctar de uva,derivado,2013,10000,0,
+307,outros,licorosos,derivado,2013,0,0,
+308,outros,compostos,derivado,2013,0,0,
+309,outros,jeropiga,derivado,2013,0,94860,94860
+310,outros,filtrado,derivado,2013,0,0,
+311,outros,frisante,derivado,2013,1009000,0,
+312,vinho,vinho leve,derivado,2013,0,0,0
+313,vinho,vinho licoroso,derivado,2013,100,609153,609053
+314,outros,brandy,derivado,2013,0,6276,6276
+315,outros,destilado,derivado,2013,0,24838,24838
+316,outros,bagaceira,derivado,2013,0,17075,17075
+317,outros,licor de bagaceira,derivado,2013,0,0,
+318,outros,vinagre,derivado,2013,0,0,
+319,outros,borra líquida,derivado,2013,63111,0,
+320,outros,borra seca,derivado,2013,78397,62825,-15572
+321,vinho,vinho composto,derivado,2013,0,595513,595513
+322,outros,pisco,derivado,2013,0,0,
+323,vinho,vinho orgânico,derivado,2013,0,0,0
+324,espumante,espumante orgânico,derivado,2013,0,0,0
+325,outros,destilado alcoólico simples de bagaceira ,derivado,2013,0,0,
+326,vinho,vinho acidificado ,derivado,2013,0,0,
+327,outros,mosto parcialmente fermentado ,derivado,2013,0,0,
+328,outros,outros derivados,derivado,2013,0,0,
+329,vinho,tinto,vinho mesa,2014,157776363,178250072,20473709
+330,vinho,branco,vinho mesa,2014,37438069,26734500,-10703569
+331,vinho,rosado,vinho mesa,2014,958691,1419855,461164
+332,vinho,tinto,vinho fino vinífera,2014,17208996,15354938,-1854058
+333,vinho,branco,vinho fino vinífera,2014,20054804,4905826,-15148978
+334,vinho,rosado,vinho fino vinífera,2014,1200514,164219,-1036295
+335,suco,suco de uva integral,suco de uva,2014,43331223,0,
+336,suco,suco de uva concentrado,suco de uva,2014,33392314,0,
+337,suco,suco de uva adoçado,suco de uva,2014,0,0,
+338,suco,suco de uva orgânico,suco de uva,2014,0,0,
+339,suco,suco de uva reconstituído,suco de uva,2014,0,0,
+340,espumante,espumante,derivado,2014,2700,0,
+341,espumante,espumante moscatel,derivado,2014,100000,4588465,4488465
+342,espumante,base espumante,derivado,2014,0,37395,37395
+343,espumante,base espumante moscatel,derivado,2014,1808044,0,
+344,outros,base champenoise champanha,derivado,2014,234725,0,
+345,outros,base charmat champanha,derivado,2014,376968,0,
+346,outros,bebida de uva,derivado,2014,3860,0,
+347,outros,polpa de uva,derivado,2014,2484000,0,
+348,outros,mosto simples,derivado,2014,57582195,0,
+349,outros,mosto concentrado,derivado,2014,0,0,0
+350,outros,mosto de uva com bagaço,derivado,2014,0,0,
+351,outros,mosto dessulfitado,derivado,2014,0,0,
+352,outros,mistelas,derivado,2014,1000,948,-52
+353,outros,néctar de uva,derivado,2014,1140,0,
+354,outros,licorosos,derivado,2014,0,0,
+355,outros,compostos,derivado,2014,0,0,
+356,outros,jeropiga,derivado,2014,0,64937,64937
+357,outros,filtrado,derivado,2014,0,0,
+358,outros,frisante,derivado,2014,26069,0,
+359,vinho,vinho leve,derivado,2014,0,0,0
+360,vinho,vinho licoroso,derivado,2014,36000,616904,580904
+361,outros,brandy,derivado,2014,0,6625,6625
+362,outros,destilado,derivado,2014,0,150,150
+363,outros,bagaceira,derivado,2014,0,14472,14472
+364,outros,licor de bagaceira,derivado,2014,0,0,
+365,outros,vinagre,derivado,2014,53776,0,
+366,outros,borra líquida,derivado,2014,50954,0,
+367,outros,borra seca,derivado,2014,142850,106400,-36450
+368,vinho,vinho composto,derivado,2014,3000,450121,447121
+369,outros,pisco,derivado,2014,0,0,
+370,vinho,vinho orgânico,derivado,2014,0,0,0
+371,espumante,espumante orgânico,derivado,2014,0,0,0
+372,outros,destilado alcoólico simples de bagaceira ,derivado,2014,0,0,
+373,vinho,vinho acidificado ,derivado,2014,0,0,
+374,outros,mosto parcialmente fermentado ,derivado,2014,0,0,
+375,outros,outros derivados,derivado,2014,0,0,
+376,vinho,tinto,vinho mesa,2015,169811472,182028785,12217313
+377,vinho,branco,vinho mesa,2015,39557250,25760681,-13796569
+378,vinho,rosado,vinho mesa,2015,939838,1409002,469164
+379,vinho,tinto,vinho fino vinífera,2015,16745896,15572632,-1173264
+380,vinho,branco,vinho fino vinífera,2015,19561966,4399814,-15162152
+381,vinho,rosado,vinho fino vinífera,2015,841120,169185,-671935
+382,suco,suco de uva integral,suco de uva,2015,52233155,0,
+383,suco,suco de uva concentrado,suco de uva,2015,35661313,0,
+384,suco,suco de uva adoçado,suco de uva,2015,0,0,
+385,suco,suco de uva orgânico,suco de uva,2015,0,0,
+386,suco,suco de uva reconstituído,suco de uva,2015,0,0,
+387,espumante,espumante,derivado,2015,23750,0,
+388,espumante,espumante moscatel,derivado,2015,110100,5010704,4900604
+389,espumante,base espumante,derivado,2015,0,77054,77054
+390,espumante,base espumante moscatel,derivado,2015,1607727,0,
+391,outros,base champenoise champanha,derivado,2015,605001,0,
+392,outros,base charmat champanha,derivado,2015,1466259,0,
+393,outros,bebida de uva,derivado,2015,922,0,
+394,outros,polpa de uva,derivado,2015,2371140,0,
+395,outros,mosto simples,derivado,2015,100911592,0,
+396,outros,mosto concentrado,derivado,2015,0,0,0
+397,outros,mosto de uva com bagaço,derivado,2015,0,0,
+398,outros,mosto dessulfitado,derivado,2015,0,0,
+399,outros,mistelas,derivado,2015,0,1144,1144
+400,outros,néctar de uva,derivado,2015,1000,0,
+401,outros,licorosos,derivado,2015,0,0,
+402,outros,compostos,derivado,2015,0,0,
+403,outros,jeropiga,derivado,2015,0,58860,58860
+404,outros,filtrado,derivado,2015,0,0,
+405,outros,frisante,derivado,2015,0,0,
+406,vinho,vinho leve,derivado,2015,0,0,0
+407,vinho,vinho licoroso,derivado,2015,56000,510975,454975
+408,outros,brandy,derivado,2015,0,8118,8118
+409,outros,destilado,derivado,2015,0,0,0
+410,outros,bagaceira,derivado,2015,1350,16268,14918
+411,outros,licor de bagaceira,derivado,2015,0,0,
+412,outros,vinagre,derivado,2015,25800,0,
+413,outros,borra líquida,derivado,2015,48833,0,
+414,outros,borra seca,derivado,2015,120230,128754,8524
+415,vinho,vinho composto,derivado,2015,0,413735,413735
+416,outros,pisco,derivado,2015,0,0,
+417,vinho,vinho orgânico,derivado,2015,0,0,0
+418,espumante,espumante orgânico,derivado,2015,0,0,0
+419,outros,destilado alcoólico simples de bagaceira ,derivado,2015,0,0,
+420,vinho,vinho acidificado ,derivado,2015,0,0,
+421,outros,mosto parcialmente fermentado ,derivado,2015,0,0,
+422,outros,outros derivados,derivado,2015,0,0,
+423,vinho,tinto,vinho mesa,2016,75279191,146646365,71367174
+424,vinho,branco,vinho mesa,2016,10727099,18731315,8004216
+425,vinho,rosado,vinho mesa,2016,312725,1391942,1079217
+426,vinho,tinto,vinho fino vinífera,2016,8774847,15228514,6453667
+427,vinho,branco,vinho fino vinífera,2016,8705066,4229293,-4475773
+428,vinho,rosado,vinho fino vinífera,2016,590713,172351,-418362
+429,suco,suco de uva integral,suco de uva,2016,31117869,0,
+430,suco,suco de uva concentrado,suco de uva,2016,11092520,0,
+431,suco,suco de uva adoçado,suco de uva,2016,0,0,
+432,suco,suco de uva orgânico,suco de uva,2016,0,0,
+433,suco,suco de uva reconstituído,suco de uva,2016,0,0,
+434,espumante,espumante,derivado,2016,1500,0,
+435,espumante,espumante moscatel,derivado,2016,100000,4507467,4407467
+436,espumante,base espumante,derivado,2016,0,131739,131739
+437,espumante,base espumante moscatel,derivado,2016,1325700,0,
+438,outros,base champenoise champanha,derivado,2016,740395,0,
+439,outros,base charmat champanha,derivado,2016,250280,0,
+440,outros,bebida de uva,derivado,2016,3474,0,
+441,outros,polpa de uva,derivado,2016,1620430,0,
+442,outros,mosto simples,derivado,2016,49770993,0,
+443,outros,mosto concentrado,derivado,2016,0,0,0
+444,outros,mosto de uva com bagaço,derivado,2016,0,0,
+445,outros,mosto dessulfitado,derivado,2016,0,0,
+446,outros,mistelas,derivado,2016,0,835,835
+447,outros,néctar de uva,derivado,2016,0,0,
+448,outros,licorosos,derivado,2016,0,0,
+449,outros,compostos,derivado,2016,0,0,
+450,outros,jeropiga,derivado,2016,0,14429,14429
+451,outros,filtrado,derivado,2016,0,0,
+452,outros,frisante,derivado,2016,0,0,
+453,vinho,vinho leve,derivado,2016,0,0,0
+454,vinho,vinho licoroso,derivado,2016,24200,546189,521989
+455,outros,brandy,derivado,2016,0,8253,8253
+456,outros,destilado,derivado,2016,0,6700,6700
+457,outros,bagaceira,derivado,2016,1000,9301,8301
+458,outros,licor de bagaceira,derivado,2016,0,0,
+459,outros,vinagre,derivado,2016,5000,0,
+460,outros,borra líquida,derivado,2016,24975,0,
+461,outros,borra seca,derivado,2016,82367,57292,-25075
+462,vinho,vinho composto,derivado,2016,0,377685,377685
+463,outros,pisco,derivado,2016,0,0,
+464,vinho,vinho orgânico,derivado,2016,0,0,0
+465,espumante,espumante orgânico,derivado,2016,0,0,0
+466,outros,destilado alcoólico simples de bagaceira ,derivado,2016,0,0,
+467,vinho,vinho acidificado ,derivado,2016,0,0,
+468,outros,mosto parcialmente fermentado ,derivado,2016,0,0,
+469,outros,outros derivados,derivado,2016,0,0,
+470,vinho,tinto,vinho mesa,2017,1365957,154309442,152943485
+471,vinho,branco,vinho mesa,2017,217527985,20653091,-196874894
+472,vinho,rosado,vinho mesa,2017,36121245,1097426,-35023819
+473,vinho,tinto,vinho fino vinífera,2017,21442212,12021684,-9420528
+474,vinho,branco,vinho fino vinífera,2017,21928400,3670590,-18257810
+475,vinho,rosado,vinho fino vinífera,2017,1167258,182080,-985178
+476,suco,suco de uva integral,suco de uva,2017,46865626,0,
+477,suco,suco de uva concentrado,suco de uva,2017,30059271,0,
+478,suco,suco de uva adoçado,suco de uva,2017,177774,0,
+479,suco,suco de uva orgânico,suco de uva,2017,0,0,
+480,suco,suco de uva reconstituído,suco de uva,2017,59300,0,
+481,espumante,espumante,derivado,2017,11280,0,
+482,espumante,espumante moscatel,derivado,2017,152375,5561181,5408806
+483,espumante,base espumante,derivado,2017,0,139070,139070
+484,espumante,base espumante moscatel,derivado,2017,1965629,0,
+485,outros,base champenoise champanha,derivado,2017,1552403,0,
+486,outros,base charmat champanha,derivado,2017,893364,0,
+487,outros,bebida de uva,derivado,2017,0,0,
+488,outros,polpa de uva,derivado,2017,2507125,0,
+489,outros,mosto simples,derivado,2017,101010116,0,
+490,outros,mosto concentrado,derivado,2017,0,0,0
+491,outros,mosto de uva com bagaço,derivado,2017,772110,0,
+492,outros,mosto dessulfitado,derivado,2017,0,0,
+493,outros,mistelas,derivado,2017,1500,1194,-306
+494,outros,néctar de uva,derivado,2017,3000,0,
+495,outros,licorosos,derivado,2017,110820,0,
+496,outros,compostos,derivado,2017,0,0,
+497,outros,jeropiga,derivado,2017,0,508,508
+498,outros,filtrado,derivado,2017,0,0,
+499,outros,frisante,derivado,2017,0,0,
+500,vinho,vinho leve,derivado,2017,0,0,0
+501,vinho,vinho licoroso,derivado,2017,110820,496746,385926
+502,outros,brandy,derivado,2017,0,5089,5089
+503,outros,destilado,derivado,2017,0,0,0
+504,outros,bagaceira,derivado,2017,900,9257,8357
+505,outros,licor de bagaceira,derivado,2017,0,0,
+506,outros,vinagre,derivado,2017,25319,0,
+507,outros,borra líquida,derivado,2017,0,0,
+508,outros,borra seca,derivado,2017,0,4970,4970
+509,vinho,vinho composto,derivado,2017,0,485944,485944
+510,outros,pisco,derivado,2017,0,0,
+511,vinho,vinho orgânico,derivado,2017,0,0,0
+512,espumante,espumante orgânico,derivado,2017,0,0,0
+513,outros,destilado alcoólico simples de bagaceira ,derivado,2017,0,0,
+514,vinho,vinho acidificado ,derivado,2017,0,0,
+515,outros,mosto parcialmente fermentado ,derivado,2017,0,0,
+516,outros,outros derivados,derivado,2017,0,0,
+517,vinho,tinto,vinho mesa,2018,188270142,155115499,-33154643
+518,vinho,branco,vinho mesa,2018,29229970,20097830,-9132140
+519,vinho,rosado,vinho mesa,2018,875524,1972944,1097420
+520,vinho,tinto,vinho fino vinífera,2018,19118254,11150517,-7967737
+521,vinho,branco,vinho fino vinífera,2018,18297257,3413196,-14884061
+522,vinho,rosado,vinho fino vinífera,2018,1291709,262430,-1029279
+523,suco,suco de uva integral,suco de uva,2018,34367996,0,
+524,suco,suco de uva concentrado,suco de uva,2018,31099910,0,
+525,suco,suco de uva adoçado,suco de uva,2018,0,0,
+526,suco,suco de uva orgânico,suco de uva,2018,0,0,
+527,suco,suco de uva reconstituído,suco de uva,2018,0,0,
+528,espumante,espumante,derivado,2018,68500,0,
+529,espumante,espumante moscatel,derivado,2018,326200,6526075,6199875
+530,espumante,base espumante,derivado,2018,0,109200,109200
+531,espumante,base espumante moscatel,derivado,2018,1320650,0,
+532,outros,base champenoise champanha,derivado,2018,228518,0,
+533,outros,base charmat champanha,derivado,2018,1746540,0,
+534,outros,bebida de uva,derivado,2018,0,0,
+535,outros,polpa de uva,derivado,2018,2112683,0,
+536,outros,mosto simples,derivado,2018,88910980,0,
+537,outros,mosto concentrado,derivado,2018,0,0,0
+538,outros,mosto de uva com bagaço,derivado,2018,0,0,
+539,outros,mosto dessulfitado,derivado,2018,0,0,
+540,outros,mistelas,derivado,2018,2000,1902,-98
+541,outros,néctar de uva,derivado,2018,0,0,
+542,outros,licorosos,derivado,2018,0,0,
+543,outros,compostos,derivado,2018,0,0,
+544,outros,jeropiga,derivado,2018,0,173,173
+545,outros,filtrado,derivado,2018,0,0,
+546,outros,frisante,derivado,2018,0,0,
+547,vinho,vinho leve,derivado,2018,8000,198,-7802
+548,vinho,vinho licoroso,derivado,2018,124303,491165,366862
+549,outros,brandy,derivado,2018,0,4652,4652
+550,outros,destilado,derivado,2018,680,82,-598
+551,outros,bagaceira,derivado,2018,2100,6929,4829
+552,outros,licor de bagaceira,derivado,2018,0,0,
+553,outros,vinagre,derivado,2018,25367,0,
+554,outros,borra líquida,derivado,2018,255100,0,
+555,outros,borra seca,derivado,2018,70480,721280,650800
+556,vinho,vinho composto,derivado,2018,0,249165,249165
+557,outros,pisco,derivado,2018,0,0,
+558,vinho,vinho orgânico,derivado,2018,0,0,0
+559,espumante,espumante orgânico,derivado,2018,0,0,0
+560,outros,destilado alcoólico simples de bagaceira ,derivado,2018,0,0,
+561,vinho,vinho acidificado ,derivado,2018,0,0,
+562,outros,mosto parcialmente fermentado ,derivado,2018,0,0,
+563,outros,outros derivados,derivado,2018,0,0,
+564,vinho,tinto,vinho mesa,2019,121045115,158519218,37474103
+565,vinho,branco,vinho mesa,2019,22032828,20661836,-1370992
+566,vinho,rosado,vinho mesa,2019,1551794,1265435,-286359
+567,vinho,tinto,vinho fino vinífera,2019,17389377,11433702,-5955675
+568,vinho,branco,vinho fino vinífera,2019,18193055,3747362,-14445693
+569,vinho,rosado,vinho fino vinífera,2019,2032990,503524,-1529466
+570,suco,suco de uva integral,suco de uva,2019,50239767,0,
+571,suco,suco de uva concentrado,suco de uva,2019,26861009,0,
+572,suco,suco de uva adoçado,suco de uva,2019,120320,0,
+573,suco,suco de uva orgânico,suco de uva,2019,0,0,
+574,suco,suco de uva reconstituído,suco de uva,2019,584256,0,
+575,espumante,espumante,derivado,2019,52176,0,
+576,espumante,espumante moscatel,derivado,2019,515800,8997187,8481387
+577,espumante,base espumante,derivado,2019,0,115468,115468
+578,espumante,base espumante moscatel,derivado,2019,1962443,0,
+579,outros,base champenoise champanha,derivado,2019,274903,0,
+580,outros,base charmat champanha,derivado,2019,1188095,0,
+581,outros,bebida de uva,derivado,2019,0,0,
+582,outros,polpa de uva,derivado,2019,1480269,0,
+583,outros,mosto simples,derivado,2019,135614344,0,
+584,outros,mosto concentrado,derivado,2019,0,0,0
+585,outros,mosto de uva com bagaço,derivado,2019,645816,0,
+586,outros,mosto dessulfitado,derivado,2019,1000,0,
+587,outros,mistelas,derivado,2019,3000,3765,765
+588,outros,néctar de uva,derivado,2019,32519,0,
+589,outros,licorosos,derivado,2019,0,0,
+590,outros,compostos,derivado,2019,0,0,
+591,outros,jeropiga,derivado,2019,0,0,0
+592,outros,filtrado,derivado,2019,0,0,
+593,outros,frisante,derivado,2019,0,0,
+594,vinho,vinho leve,derivado,2019,0,306,306
+595,vinho,vinho licoroso,derivado,2019,99485,465964,366479
+596,outros,brandy,derivado,2019,0,5015,5015
+597,outros,destilado,derivado,2019,0,309,309
+598,outros,bagaceira,derivado,2019,10495,8746,-1749
+599,outros,licor de bagaceira,derivado,2019,1507,0,
+600,outros,vinagre,derivado,2019,76096,0,
+601,outros,borra líquida,derivado,2019,901431,0,
+602,outros,borra seca,derivado,2019,25996,153770,127774
+603,vinho,vinho composto,derivado,2019,0,366549,366549
+604,outros,pisco,derivado,2019,3372,0,
+605,vinho,vinho orgânico,derivado,2019,0,2554,2554
+606,espumante,espumante orgânico,derivado,2019,0,311,311
+607,outros,destilado alcoólico simples de bagaceira ,derivado,2019,0,0,
+608,vinho,vinho acidificado ,derivado,2019,0,0,
+609,outros,mosto parcialmente fermentado ,derivado,2019,0,0,
+610,outros,outros derivados,derivado,2019,0,0,
+611,vinho,tinto,vinho mesa,2020,103916391,189573423,85657032
+612,vinho,branco,vinho mesa,2020,19568734,24589607,5020873
+613,vinho,rosado,vinho mesa,2020,715289,1394901,679612
+614,vinho,tinto,vinho fino vinífera,2020,15451883,18202453,2750570
+615,vinho,branco,vinho fino vinífera,2020,15487915,5115133,-10372782
+616,vinho,rosado,vinho fino vinífera,2020,1576888,993248,-583640
+617,suco,suco de uva integral,suco de uva,2020,40718523,0,
+618,suco,suco de uva concentrado,suco de uva,2020,27963865,0,
+619,suco,suco de uva adoçado,suco de uva,2020,107289,0,
+620,suco,suco de uva orgânico,suco de uva,2020,471610,0,
+621,suco,suco de uva reconstituído,suco de uva,2020,0,0,
+622,espumante,espumante,derivado,2020,32399,0,
+623,espumante,espumante moscatel,derivado,2020,689139,9298571,8609432
+624,espumante,base espumante,derivado,2020,0,23703,23703
+625,espumante,base espumante moscatel,derivado,2020,3006705,0,
+626,outros,base champenoise champanha,derivado,2020,200777,0,
+627,outros,base charmat champanha,derivado,2020,2487939,0,
+628,outros,bebida de uva,derivado,2020,0,0,
+629,outros,polpa de uva,derivado,2020,1803472,0,
+630,outros,mosto simples,derivado,2020,80355474,0,
+631,outros,mosto concentrado,derivado,2020,0,0,0
+632,outros,mosto de uva com bagaço,derivado,2020,3078256,0,
+633,outros,mosto dessulfitado,derivado,2020,5000,0,
+634,outros,mistelas,derivado,2020,0,1201,1201
+635,outros,néctar de uva,derivado,2020,46000,0,
+636,outros,licorosos,derivado,2020,0,0,
+637,outros,compostos,derivado,2020,0,0,
+638,outros,jeropiga,derivado,2020,2000,1267,-733
+639,outros,filtrado,derivado,2020,0,0,
+640,outros,frisante,derivado,2020,0,0,
+641,vinho,vinho leve,derivado,2020,0,396,396
+642,vinho,vinho licoroso,derivado,2020,48678,362340,313662
+643,outros,brandy,derivado,2020,0,7966,7966
+644,outros,destilado,derivado,2020,0,200,200
+645,outros,bagaceira,derivado,2020,0,7610,7610
+646,outros,licor de bagaceira,derivado,2020,5800,0,
+647,outros,vinagre,derivado,2020,10000,0,
+648,outros,borra líquida,derivado,2020,509378,0,
+649,outros,borra seca,derivado,2020,167587,146260,-21327
+650,vinho,vinho composto,derivado,2020,0,63625,63625
+651,outros,pisco,derivado,2020,1000,0,
+652,vinho,vinho orgânico,derivado,2020,18700,10718,-7982
+653,espumante,espumante orgânico,derivado,2020,0,742,742
+654,outros,destilado alcoólico simples de bagaceira ,derivado,2020,500,0,
+655,vinho,vinho acidificado ,derivado,2020,65000,0,
+656,outros,mosto parcialmente fermentado ,derivado,2020,0,0,
+657,outros,outros derivados,derivado,2020,0,0,
+658,vinho,tinto,vinho mesa,2021,146075996,185653678,39577682
+659,vinho,branco,vinho mesa,2021,26432799,22426954,-4005845
+660,vinho,rosado,vinho mesa,2021,1391200,1931606,540406
+661,vinho,tinto,vinho fino vinífera,2021,20433249,19337862,-1095387
+662,vinho,branco,vinho fino vinífera,2021,20867999,6139046,-14728953
+663,vinho,rosado,vinho fino vinífera,2021,2173750,1603537,-570213
+664,suco,suco de uva integral,suco de uva,2021,68038479,0,
+665,suco,suco de uva concentrado,suco de uva,2021,32131218,0,
+666,suco,suco de uva adoçado,suco de uva,2021,40450,0,
+667,suco,suco de uva orgânico,suco de uva,2021,722117,0,
+668,suco,suco de uva reconstituído,suco de uva,2021,0,0,
+669,espumante,espumante,derivado,2021,70091,0,
+670,espumante,espumante moscatel,derivado,2021,11950,12240059,12228109
+671,espumante,base espumante,derivado,2021,5475049,49734,-5425315
+672,espumante,base espumante moscatel,derivado,2021,5549471,0,
+673,outros,base champenoise champanha,derivado,2021,0,0,
+674,outros,base charmat champanha,derivado,2021,0,0,
+675,outros,bebida de uva,derivado,2021,2000,0,
+676,outros,polpa de uva,derivado,2021,1180578,0,
+677,outros,mosto simples,derivado,2021,153579926,0,
+678,outros,mosto concentrado,derivado,2021,0,0,0
+679,outros,mosto de uva com bagaço,derivado,2021,618764,0,
+680,outros,mosto dessulfitado,derivado,2021,1532000,0,
+681,outros,mistelas,derivado,2021,2500,9075,6575
+682,outros,néctar de uva,derivado,2021,18187,0,
+683,outros,licorosos,derivado,2021,0,0,
+684,outros,compostos,derivado,2021,0,0,
+685,outros,jeropiga,derivado,2021,3540,1763,-1777
+686,outros,filtrado,derivado,2021,0,0,
+687,outros,frisante,derivado,2021,1390,0,
+688,vinho,vinho leve,derivado,2021,0,0,0
+689,vinho,vinho licoroso,derivado,2021,30000,376597,346597
+690,outros,brandy,derivado,2021,120,7311,7191
+691,outros,destilado,derivado,2021,0,175,175
+692,outros,bagaceira,derivado,2021,12060,7676,-4384
+693,outros,licor de bagaceira,derivado,2021,0,0,
+694,outros,vinagre,derivado,2021,7500,0,
+695,outros,borra líquida,derivado,2021,116450,0,
+696,outros,borra seca,derivado,2021,16789,414100,397311
+697,vinho,vinho composto,derivado,2021,160000,227116,67116
+698,outros,pisco,derivado,2021,0,0,
+699,vinho,vinho orgânico,derivado,2021,93884,18686,-75198
+700,espumante,espumante orgânico,derivado,2021,2412,639,-1773
+701,outros,destilado alcoólico simples de bagaceira ,derivado,2021,3000,0,
+702,vinho,vinho acidificado ,derivado,2021,0,0,
+703,outros,mosto parcialmente fermentado ,derivado,2021,543510,0,
+704,outros,outros derivados,derivado,2021,322,0,
+705,vinho,tinto,vinho mesa,2022,162844214,165067340,2223126
+706,vinho,branco,vinho mesa,2022,30198430,20658933,-9539497
+707,vinho,rosado,vinho mesa,2022,1988968,2213723,224755
+708,vinho,tinto,vinho fino vinífera,2022,24417918,15258778,-9159140
+709,vinho,branco,vinho fino vinífera,2022,20896613,4956314,-15940299
+710,vinho,rosado,vinho fino vinífera,2022,2197265,1318396,-878869
+711,suco,suco de uva integral,suco de uva,2022,35248305,0,
+712,suco,suco de uva concentrado,suco de uva,2022,29892550,0,
+713,suco,suco de uva adoçado,suco de uva,2022,79130,0,
+714,suco,suco de uva orgânico,suco de uva,2022,589094,0,
+715,suco,suco de uva reconstituído,suco de uva,2022,0,0,
+716,espumante,espumante,derivado,2022,70759,0,
+717,espumante,espumante moscatel,derivado,2022,27200,12204315,12177115
+718,espumante,base espumante,derivado,2022,0,720603,720603
+719,espumante,base espumante moscatel,derivado,2022,6308043,0,
+720,outros,base champenoise champanha,derivado,2022,1146717,0,
+721,outros,base charmat champanha,derivado,2022,4078766,0,
+722,outros,bebida de uva,derivado,2022,0,0,
+723,outros,polpa de uva,derivado,2022,387886,0,
+724,outros,mosto simples,derivado,2022,126048241,0,
+725,outros,mosto concentrado,derivado,2022,0,0,0
+726,outros,mosto de uva com bagaço,derivado,2022,0,0,
+727,outros,mosto dessulfitado,derivado,2022,0,0,
+728,outros,mistelas,derivado,2022,0,4080,4080
+729,outros,néctar de uva,derivado,2022,0,0,
+730,outros,licorosos,derivado,2022,0,0,
+731,outros,compostos,derivado,2022,0,0,
+732,outros,jeropiga,derivado,2022,5000,1392,-3608
+733,outros,filtrado,derivado,2022,0,0,
+734,outros,frisante,derivado,2022,0,0,
+735,vinho,vinho leve,derivado,2022,0,27,27
+736,vinho,vinho licoroso,derivado,2022,67000,385006,318006
+737,outros,brandy,derivado,2022,0,4407,4407
+738,outros,destilado,derivado,2022,0,33,33
+739,outros,bagaceira,derivado,2022,4998,5594,596
+740,outros,licor de bagaceira,derivado,2022,0,0,
+741,outros,vinagre,derivado,2022,16200,0,
+742,outros,borra líquida,derivado,2022,0,0,
+743,outros,borra seca,derivado,2022,0,122525,122525
+744,vinho,vinho composto,derivado,2022,0,32000,32000
+745,outros,pisco,derivado,2022,0,0,
+746,vinho,vinho orgânico,derivado,2022,88890,14947,-73943
+747,espumante,espumante orgânico,derivado,2022,0,597,597
+748,outros,destilado alcoólico simples de bagaceira ,derivado,2022,4300,0,
+749,vinho,vinho acidificado ,derivado,2022,0,0,
+750,outros,mosto parcialmente fermentado ,derivado,2022,0,0,
+751,outros,outros derivados,derivado,2022,247228,0,
