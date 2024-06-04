@@ -4,8 +4,9 @@
 
 ## 📌 Introdução
 
-Este projeto faz parte do projeto Tech Challenge da Pos Tech Data Analytics FIAP e conta como nota da primeira fase da pós graduação.
+Este projeto faz parte do projeto Tech Challenge da Pós Tech Data Analytics FIAP e conta como nota da primeira fase da pós-graduação.
 O grupo que desenvolveu esse projeto é composto por:
+
 
 Aelton Pereira de Lacerda
 
@@ -15,59 +16,35 @@ Arthur do Nascimento Siqueira
 
 Matheus Martins Matias Rodrigues
 
-Victor Campanha Barros -  (https://www.linkedin.com/in/victorcbarros/)
+Victor Campanha Barros 
 
 
 ## 📌 Visão Geral
 
-Este projeto tem como objetivo analisar o montante de vendas de exportação de vinhos provenientes do Brasil nos últimos 15 anos. Utilizamos a linguagem de programação Python, através da biblioteca Pandas, para a extração, limpeza, tratamento e carregamento dos dados. Para a visualização dos dados, utilizamos o software Power BI, criando um dashboard para facilitar a análise. A partir disso, sugerimos possíveis ações para melhorias nas exportações com base nos dados analisados.
+O problema da previsibilidade de cenários futuros é uma preocupação significativa para empresas de produção e exportação de vinhos. Mudanças inesperadas no mercado internacional de compra e venda podem levar à perda de mercado e até a prejuízos enormes se a empresa não acompanhar essas alterações. Nesse sentido, a análise de dados, tanto da empresa quanto do cenário mundial, torna-se uma ferramenta indispensável para auxiliar na tomada de decisão. Essa prática oferece uma vantagem competitiva frente às concorrentes que não utilizam essa ferramenta, permitindo uma adaptação mais rápida e eficaz às mudanças de mercado.
 
+Este projeto tem como objetivo analisar o montante de vendas de exportação de vinhos provenientes do Brasil nos últimos 15 anos. Utilizamos a linguagem de programação Python, através da biblioteca Pandas, para a extração, limpeza, tratamento e carregamento dos dados. Para a visualização dos dados, utilizamos a biblioteca Matplotlib e Seaborn além do software Power BI, criando gráficos para facilitar a análise. A partir disso, sugerimos possíveis ações para melhorias nas exportações com base nos dados analisados.
 
 ## 💼 Entendimento do Negócio
 
-[Descreva o contexto e a importância do seu projeto. Por exemplo, "No contexto atual de crescente volume de dados, entender padrões complexos em comportamentos de consumidores é crucial para estratégias de marketing eficazes."]
+No cenário atual de globalização e competitividade no mercado de vinhos, compreender os padrões de exportação é fundamental para as empresas do setor. Com o aumento do comércio internacional e a diversificação dos gostos dos consumidores, entender as tendências de exportação de vinhos torna-se crucial para desenvolver estratégias de negócios eficazes.
+
+A análise dos dados de exportação de vinhos do Brasil ao longo dos últimos 15 anos oferece uma visão detalhada das mudanças no mercado global, permitindo que as empresas identifiquem padrões, sazonalidades e preferências dos consumidores em diferentes regiões do mundo. Essa compreensão é essencial para a tomada de decisões informadas em relação à produção, marketing e distribuição dos produtos, visando maximizar as oportunidades de negócio e minimizar os riscos associados às flutuações do mercado.
 
 **Tipos de Análise Realizados:**
-- [Insira o tipo de análise, por exemplo, "Análise de Sentimento"]
-- [Outro tipo de análise, por exemplo, "Tendências de Mercado"]
-- [Mais um tipo, por exemplo, "Padrões de Comportamento do Consumidor"]
+- Análise exploratoria dos dados de exportação,importação, produção e comercialização
+- Análise das tendências de mercado 
+- Análise do cenario mundial de vinhos
 
 **Principais Indicadores Chave de Desempenho:**
-- [Primeiro indicador, por exemplo, "Taxa de Conversão"]
-- [Segundo indicador, por exemplo, "Retenção de Clientes"]
-- [Terceiro indicador, por exemplo, "Satisfação do Cliente"]
-
-## 📊 Análise do Modelo Atual
-
-[Descreva a situação atual e o que seu projeto propõe a melhorar. Por exemplo, "Nosso modelo atual enfrenta desafios em... A análise visa otimizar..."]
-
-![Inserir imagem](https://github.com/[SeuNomeDeUsuário]/[NomeDoProjeto]/assets/[IDdaSegundaImagem])
-
-[Aqui, você pode descrever o que a imagem acima representa e como ela se relaciona com o seu projeto.]
-
-## 🛠 Pré-processamento 
-O pré-processamento de dados é crucial em projetos de machine learning. Utilizamos [insira as ferramentas ou métodos usados, por exemplo, "Pipeline do Scikit-learn"] para garantir eficácia e reprodutibilidade. 
-
-_Considerações Importantes:_
-1. [Primeira consideração, por exemplo, "Todos os valores estão em uma única unidade de medida."]
-2. [Segunda consideração, por exemplo, "Os dados são anônimos para proteger a privacidade dos usuários."]
-   
-_Etapas do Pré-processamento no Pipeline:_
-1. [Primeira etapa, por exemplo, "Normalização dos Dados"]
-2. [Segunda etapa, por exemplo, "Tratamento de Valores Ausentes"]
-3. [Terceira etapa, por exemplo, "Codificação de Variáveis Categóricas"]
-
-## 🤖 Modelagem e Avaliação
-
-Utilizamos [insira as ferramentas ou métodos de modelagem usados, por exemplo, "algoritmos de machine learning como XGBoost e RandomForest"] para construir nosso modelo. As métricas de avaliação incluem [insira as métricas usadas, por exemplo, "precisão, recall e a área sob a curva ROC"].
-
-![Inserir imagem](https://github.com/[SeuNomeDeUsuário]/[NomeDoProjeto]/assets/[IDdaTerceiraImagem])
-
-[Aqui, explique o que a imagem acima mostra e como ela é relevante para a avaliação do seu modelo.]
-
-## 📈 Insights e Conclusões
-
-[Resuma os principais insights obtidos e as conclusões do seu projeto. Por exemplo, "Nossa análise revelou que... Isso sugere que..."]
+- Quantidade em litros de vinho exportado(1Kg = 1L)
+- Valor exportado (US\$)
+- Valor por litro exportado(US\$)
+- Quantidade em litros de vinho importado(1Kg = 1L)
+- Valor Importado (US\$)
+- Valor por litro importado(US$)
+- Quantidade em litros de vinho produzido(1L)
+- Quantidade em litros de vinho comercializado(1L)
 
 ## 📜 Estrutura do Projeto
 
@@ -79,10 +56,51 @@ A estrutura de diretórios do projeto foi organizada da seguinte forma:
 │ └── raw - iniciais
 ├── notebooks - codigos
 ├── reports - relatorios 
-│ └── figures 
-
+│ └── figures
+│ └── PowerBi 
 ```
+## 🛠 Tratamento e Limpeza dos Dados
 
-## 🚧 Próximos Passos
+A análise de dados de vinhos exige um processo meticuloso de tratamento e limpeza para garantir a confiabilidade e a qualidade das informações. Este estudo detalha as etapas realizadas para preparar os dados para análise subsequente, utilizando a biblioteca Pandas do Python.
 
-[Descreva os próximos passos para o seu projeto, por exemplo, "O próximo passo é implementar o modelo em um ambiente de produção para testar sua eficácia em tempo real."]
+_Considerações Importantes:_
+1. Foram utilizados conjuntos de dados reais e de plataformas de dados abertos, com referências disponíveis no relatório em PDF na pasta "reports - relatorios".
+2. Os dados brutos foram filtrados para incluir apenas informações relevantes para vinhos, excluindo dados irrelevantes ou inconsistentes.
+3. As etapas de tratamento de dados incluíram remoção de valores ausentes, duplicados,inconsistentes; Identificação e correção de erros de digitação, formatação,codificação conversão de unidades,  e padronização de nomes e categorias.
+   
+_Etapas do Tratamento e Limpeza dos Dados:_
+1. Importação dos dados e biblioteca
+2. Tratamento e Limpeza dos Dados de Produção e Comércio de Vinhos no Brasil
+3. Tratamento e Limpeza dos Dados de Importação e Exportação do Brasil
+4. Tratamento e Limpeza dos Dados de Mercado Global de Vinhos e Cotação de Moeda 
+
+## 📊 Análise dos Dados
+
+A etapa de análise de dados se configura como o cerne deste projeto, onde todo o conhecimento adquirido sobre o negócio se converte em insights valiosos para o mercado nacional e internacional de vinhos. Através de técnicas robustas e análises aprofundadas, desvendamos as tendências e oportunidades que impulsionam esse setor dinâmico.
+
+_Etapas da Análise dos Dados:_
+1. Importação dos dados e biblioteca
+2. Análise dos Dados de Produção e Comércio de Vinhos no Brasil
+3. Análise dos Dados dos Dados de Importação e Exportação do Brasil
+4. Análise dos Dados dos Dados de Mercado Global de Vinhos e Cotação de Moeda
+5. Criação do Modelo matematico para retirada de insights sobre os melhores países para investir.
+
+## 📈 Insights e Conclusões
+
+Nossa análise aprofundada do mercado global de vinhos revelou um panorama promissor para o Brasil, com um vasto potencial de crescimento nas exportações. Identificamos países que representam oportunidades estratégicas de investimento comercial e marketing, abrindo portas para o sucesso internacional dos vinhos brasileiros
+
+Países-Alvo para Investimento:
+- Rússia
+- Estados Unidos
+- Japão
+- China
+- Uruguai
+- Alemanha
+- Reino Unido
+
+Ao explorar as oportunidades e implementar as estratégias descritas neste estudo, os produtores brasileiros de vinho podem alcançar um sucesso significativo nos mercados internacionais. O Brasil possui um enorme potencial para se tornar um player global de destaque na indústria vinícola, e este estudo oferece um mapa detalhado para guiar o caminho para o sucesso.
+
+Recomendamos a leitura do relatório completo de Análise de Dados, disponível neste repositório na pasta "reports - relatorios". Este relatório fornece uma análise detalhada dos dados, metodologias e insights utilizados neste estudo, oferecendo uma visão abrangente do potencial exportador dos vinhos brasileiros.
+
+Acreditamos que este estudo se configura como uma ferramenta valiosa para o desenvolvimento da indústria vinícola brasileira, contribuindo para o aumento das exportações e o reconhecimento internacional da qualidade dos vinhos brasileiros.
+
